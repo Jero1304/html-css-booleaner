@@ -1,0 +1,86 @@
+a{
+    color: currentColor;
+    text-decoration: none;
+}
+
+address{
+    font-style: normal;
+}
+
+
+.main_header{
+    background-image: url('../img/pattern.png');
+    background-size: 260px;
+    background-color: dodgerblue;
+}
+
+.logo{
+    width: 180px;
+    padding-top: 50px;
+}
+
+.author_info{
+    color: grey;
+    font-size: 20px;
+}
+
+.author_info time{
+    font-size: 14px;
+
+}
+
+.author_info a{
+    color: dodgerblue;
+}
+
+.h1{
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p strong{
+    background-color: rgba(255, 255, 0, 0.7);
+    font-weight: 400;
+
+}
+.table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table_head{
+    background-color: dodgerblue;
+    color: white;
+    text-align: left;
+}
+/* utility */
+.w-25{
+    width: 25%;
+}
+.w-50{
+    width: 50%;
+}
+.bg_acqua{
+    background-color: aqua;
+}
+.lista{
+    padding-left: 20px;
+}
+
+.releted_post{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.rect{
+    width: 200px;
+    height: 150px;
+}
+
+#foto_1{
+    background-image: url('../img/graph.jpg');
+}
+#foto_2{
+    background-image: url('../img/monitor.jpg');
+}
